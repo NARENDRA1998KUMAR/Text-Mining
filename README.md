@@ -6,7 +6,8 @@ Install nltk package
 
 import nltk package
 
-Basic tasks
+Basic tasks:
+
 *Loading corpora
 
 *Searching text
